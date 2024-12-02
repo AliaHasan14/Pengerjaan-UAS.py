@@ -22,3 +22,4 @@ plt.legend()
 plt.grid(True)
 plt.axhline(0, color='black', linewidth=0.5, ls='--')  # Garis horizontal di y=0
 plt.axvline(0, color='black', linewidth=0.5, ls='--')  # Garis vertikal di x=0
+plt.show()
